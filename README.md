@@ -15,7 +15,7 @@ Plant roots and associated belowground processes are foundational to agricultura
 
 ## Sketch
 
-![](Desktop/Project-Images/Sketch_Image-processing.png)
+![](https://github.com/joseguilhermecpp/Image_Analysis/blob/master/Sketch_Image-processing.png)
 
 ## References
 Vamerali, T., Bandiera, M. and Mosca, G., 2012. Minirhizotrons in modern root studies. In Measuring roots (pp. 341-361). Springer, Berlin, Heidelberg.
